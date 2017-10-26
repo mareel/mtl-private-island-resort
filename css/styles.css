@@ -1,0 +1,19 @@
+h1 {
+  color: blue;
+  font-style: oblique;
+  text-align: center;
+  font-size: 40px;
+}
+h2 {
+  color: navy;
+  text-align: center;
+  font-size: 40px;
+}
+p {
+  font-size: 20px;
+  font: times;
+}
+ul {
+  font-size: 30px;
+  line-height: 30px;
+}
