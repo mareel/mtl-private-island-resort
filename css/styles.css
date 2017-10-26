@@ -9,6 +9,11 @@ h2 {
   text-align: center;
   font-size: 40px;
 }
+img {
+  width: 300px;
+  height: 250px;
+  border: 1px solid black;
+}
 p {
   font-size: 20px;
   font: times;
