@@ -1,11 +1,11 @@
 h1 {
-  color: blue;
+  color: gold;
   font-style: oblique;
   text-align: center;
   font-size: 40px;
 }
 h2 {
-  color: navy;
+  color: gold;
   text-align: center;
   font-size: 40px;
 }
@@ -17,6 +17,9 @@ img {
 p {
   font-size: 20px;
   font: times;
+}
+body {
+  background-color: silver;
 }
 ul {
   font-size: 30px;
